@@ -1,5 +1,9 @@
 body{
     background-color: cadetblue;
-    color: blueviolet;
+    color: black;
+}
+
+h4{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: tomato;
 }
